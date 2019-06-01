@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About SwapToken</source>
-        <translation>O SwapToken</translation>
+        <source>About SwapTokenReloaded</source>
+        <translation>O SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;SwapToken&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;SwapToken&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;SwapTokenReloaded&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;SwapTokenReloaded&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The SwapToken developers</source>
+Copyright © 2014 The SwapTokenReloaded developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your SwapToken addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>To so vaši SwapToken naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
+        <source>These are your SwapTokenReloaded addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>To so vaši SwapTokenReloaded naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a SwapToken address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva SwapToken naslova</translation>
+        <source>Sign a message to prove you own a SwapTokenReloaded address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva SwapTokenReloaded naslova</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified SwapToken address</source>
-        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim SwapToken naslovom</translation>
+        <source>Verify a message to ensure it was signed with a specified SwapTokenReloaded address</source>
+        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim SwapTokenReloaded naslovom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>SwapToken will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>SwapToken se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
+        <source>SwapTokenReloaded will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>SwapTokenReloaded se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about SwapToken</source>
-        <translation>Pokaži informacije o SwapToken</translation>
+        <source>Show information about SwapTokenReloaded</source>
+        <translation>Pokaži informacije o SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a SwapToken address</source>
-        <translation>Pošlji kovance na SwapToken naslov</translation>
+        <source>Send coins to a SwapTokenReloaded address</source>
+        <translation>Pošlji kovance na SwapTokenReloaded naslov</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for SwapToken</source>
-        <translation>Spremeni nastavitve za SwapToken</translation>
+        <source>Modify configuration options for SwapTokenReloaded</source>
+        <translation>Spremeni nastavitve za SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-202"/>
-        <source>SwapToken</source>
-        <translation>SwapToken</translation>
+        <source>SwapTokenReloaded</source>
+        <translation>SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About SwapToken</source>
-        <translation>&amp;O SwapToken</translation>
+        <source>&amp;About SwapTokenReloaded</source>
+        <translation>&amp;O SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>SwapToken client</source>
-        <translation>SwapToken program</translation>
+        <source>SwapTokenReloaded client</source>
+        <translation>SwapTokenReloaded program</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to SwapToken network</source>
-        <translation><numerusform>%n aktivne povezave na SwapToken omrežje</numerusform><numerusform>%n aktivnih povezav na SwapToken omrežje</numerusform><numerusform>%n aktivnih povezav na SwapToken omrežje</numerusform><numerusform>%n aktivnih povezav na SwapToken omrežje</numerusform></translation>
+        <source>%n active connection(s) to SwapTokenReloaded network</source>
+        <translation><numerusform>%n aktivne povezave na SwapTokenReloaded omrežje</numerusform><numerusform>%n aktivnih povezav na SwapTokenReloaded omrežje</numerusform><numerusform>%n aktivnih povezav na SwapTokenReloaded omrežje</numerusform><numerusform>%n aktivnih povezav na SwapTokenReloaded omrežje</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -582,12 +582,12 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-312"/>
-        <source>About SwapToken card</source>
+        <source>About SwapTokenReloaded card</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about SwapToken card</source>
+        <source>Show information about SwapTokenReloaded card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -667,8 +667,8 @@ Naslov: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid SwapToken address or malformed URI parameters.</source>
-        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega SwapToken naslova ali slabih parametrov URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid SwapTokenReloaded address or malformed URI parameters.</source>
+        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega SwapTokenReloaded naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -727,8 +727,8 @@ Naslov: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. SwapToken can no longer continue safely and will quit.</source>
-        <translation>Prišlo je do usodne napake. Program SwapToken se ne more več varno nadaljevati in se bo zato zaprl. </translation>
+        <source>A fatal error occurred. SwapTokenReloaded can no longer continue safely and will quit.</source>
+        <translation>Prišlo je do usodne napake. Program SwapTokenReloaded se ne more več varno nadaljevati in se bo zato zaprl. </translation>
     </message>
 </context>
 <context>
@@ -1061,8 +1061,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid SwapToken address.</source>
-        <translation>Vneseni naslov &quot;%1&quot; ni veljaven SwapToken naslov.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid SwapTokenReloaded address.</source>
+        <translation>Vneseni naslov &quot;%1&quot; ni veljaven SwapTokenReloaded naslov.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1080,8 +1080,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>SwapToken-Qt</source>
-        <translation>SwapToken-Qt</translation>
+        <source>SwapTokenReloaded-Qt</source>
+        <translation>SwapTokenReloaded-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1153,13 +1153,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start SwapToken after logging in to the system.</source>
-        <translation>Avtomatično zaženi SwapToken ob zagonu sistema.</translation>
+        <source>Automatically start SwapTokenReloaded after logging in to the system.</source>
+        <translation>Avtomatično zaženi SwapTokenReloaded ob zagonu sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start SwapToken on system login</source>
-        <translation>&amp;Zaženi SwapToken ob prijavi v sistem</translation>
+        <source>&amp;Start SwapTokenReloaded on system login</source>
+        <translation>&amp;Zaženi SwapTokenReloaded ob prijavi v sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1178,8 +1178,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the SwapToken client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata na routerju za SwapToken program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
+        <source>Automatically open the SwapTokenReloaded client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata na routerju za SwapTokenReloaded program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1188,8 +1188,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the SwapToken network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Poveži se na SwapToken omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
+        <source>Connect to the SwapTokenReloaded network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Poveži se na SwapTokenReloaded omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1263,8 +1263,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting SwapToken.</source>
-        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu SwapToken aplikacije. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting SwapTokenReloaded.</source>
+        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu SwapTokenReloaded aplikacije. </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1278,8 +1278,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show SwapToken addresses in the transaction list or not.</source>
-        <translation>Izbira prikaza SwapToken naslovov v seznamu transakcij.</translation>
+        <source>Whether to show SwapTokenReloaded addresses in the transaction list or not.</source>
+        <translation>Izbira prikaza SwapTokenReloaded naslovov v seznamu transakcij.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1325,8 +1325,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting SwapToken.</source>
-        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu SwapToken aplikacije</translation>
+        <source>This setting will take effect after restarting SwapTokenReloaded.</source>
+        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu SwapTokenReloaded aplikacije</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1344,8 +1344,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SwapToken network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z SwapToken omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SwapTokenReloaded network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z SwapTokenReloaded omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1560,8 +1560,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the SwapToken-Qt help message to get a list with possible SwapToken command-line options.</source>
-        <translation>Prikaži SwapToken-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice SwapToken aplikacije</translation>
+        <source>Show the SwapTokenReloaded-Qt help message to get a list with possible SwapTokenReloaded command-line options.</source>
+        <translation>Prikaži SwapTokenReloaded-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice SwapTokenReloaded aplikacije</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1580,13 +1580,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>SwapToken - Debug window</source>
-        <translation>SwapToken - okno za odpravljanje napak</translation>
+        <source>SwapTokenReloaded - Debug window</source>
+        <translation>SwapTokenReloaded - okno za odpravljanje napak</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>SwapToken Core</source>
-        <translation>SwapToken jedro</translation>
+        <source>SwapTokenReloaded Core</source>
+        <translation>SwapTokenReloaded jedro</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1595,8 +1595,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the SwapToken debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpri SwapToken datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
+        <source>Open the SwapTokenReloaded debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpri SwapTokenReloaded datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1605,8 +1605,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the SwapToken RPC console.</source>
-        <translation>Dobrodošli v SwapToken RPC konzoli.</translation>
+        <source>Welcome to the SwapTokenReloaded RPC console.</source>
+        <translation>Dobrodošli v SwapTokenReloaded RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1764,8 +1764,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a SwapToken address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite SwapToken naslov (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a SwapTokenReloaded address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite SwapTokenReloaded naslov (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1864,8 +1864,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid SwapToken address</source>
-        <translation>OPOZORILO: Neveljaven SwapToken naslov</translation>
+        <source>WARNING: Invalid SwapTokenReloaded address</source>
+        <translation>OPOZORILO: Neveljaven SwapTokenReloaded naslov</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1938,8 +1938,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a SwapToken address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite SwapToken naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a SwapTokenReloaded address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite SwapTokenReloaded naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1999,8 +1999,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this SwapToken address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva SwapToken naslova</translation>
+        <source>Sign the message to prove you own this SwapTokenReloaded address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva SwapTokenReloaded naslova</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2031,8 +2031,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified SwapToken address</source>
-        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim SwapToken naslovom</translation>
+        <source>Verify the message to ensure it was signed with the specified SwapTokenReloaded address</source>
+        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim SwapTokenReloaded naslovom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2042,8 +2042,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a SwapToken address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite SwapToken naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a SwapTokenReloaded address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite SwapTokenReloaded naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2052,8 +2052,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter SwapToken signature</source>
-        <translation>Vnesite SwapToken podpis</translation>
+        <source>Enter SwapTokenReloaded signature</source>
+        <translation>Vnesite SwapTokenReloaded podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2623,8 +2623,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>SwapToken version</source>
-        <translation>SwapToken različica</translation>
+        <source>SwapTokenReloaded version</source>
+        <translation>SwapTokenReloaded različica</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2633,7 +2633,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or SwapTokend</source>
+        <source>Send command to -server or SwapTokenReloadedd</source>
         <translation>Pošlji ukaz na -server ali blackoind</translation>
     </message>
     <message>
@@ -2653,13 +2653,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: SwapToken.conf)</source>
-        <translation>Določi konfiguracijsko datoteko (privzeto: SwapToken.conf)</translation>
+        <source>Specify configuration file (default: SwapTokenReloaded.conf)</source>
+        <translation>Določi konfiguracijsko datoteko (privzeto: SwapTokenReloaded.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: SwapTokend.pid)</source>
-        <translation>Določi pid datoteko (privzeto: SwapToken.pid)</translation>
+        <source>Specify pid file (default: SwapTokenReloadedd.pid)</source>
+        <translation>Določi pid datoteko (privzeto: SwapTokenReloaded.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2808,8 +2808,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong SwapToken will not work properly.</source>
-        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno SwapToken ne bo deloval.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong SwapTokenReloaded will not work properly.</source>
+        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno SwapTokenReloaded ne bo deloval.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2998,24 +2998,24 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=SwapTokenrpc
+rpcuser=SwapTokenReloadedrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;SwapToken Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;SwapTokenReloaded Alert&quot; admin@foo.com
 </source>
         <translation>%s, nastaviti morate rpcgeslo v konfiguracijski datoteki: 
  %s
 Priporočeno je, da uporabite naslednje naključno geslo:
-rpcuser=SwapTokenrpc
+rpcuser=SwapTokenReloadedrpc
 rpcpassword=%s
 (tega gesla si vam ni potrebno zapomniti)
 Uporabniško ime in geslo NE SMETA biti ista. 
 Če datoteka ne obstaja, jo ustvarite z lastniškimi dovoljenji za datoteke. 
 Prav tako je priporočeno, da nastavite alernotify, tkako da vas opozori na probleme;
-na primer: alertnotify=echo %%s | mail -s &quot;SwapToken Alarm&quot; admin@foo.com
+na primer: alertnotify=echo %%s | mail -s &quot;SwapTokenReloaded Alarm&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3140,13 +3140,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;SwapToken Alarm&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  SwapToken is probably already running.</source>
-        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija SwapToken je verjetno že zagnana.</translation>
+        <source>Cannot obtain a lock on data directory %s.  SwapTokenReloaded is probably already running.</source>
+        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija SwapTokenReloaded je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>SwapToken</source>
-        <translation>SwapToken</translation>
+        <source>SwapTokenReloaded</source>
+        <translation>SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;SwapToken Alarm&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of SwapToken</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo SwapToken</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of SwapTokenReloaded</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart SwapToken to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno odprite SwapToken za dokončanje</translation>
+        <source>Wallet needed to be rewritten: restart SwapTokenReloaded to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno odprite SwapTokenReloaded za dokončanje</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ na primer: alertnotify=echo %%s | mail -s &quot;SwapToken Alarm&quot; admin@foo.
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. SwapToken is probably already running.</source>
-        <translation>Navezava v %s  na tem računalniku ni mogoča SwapToken aplikacija je verjetno že zagnana.</translation>
+        <source>Unable to bind to %s on this computer. SwapTokenReloaded is probably already running.</source>
+        <translation>Navezava v %s  na tem računalniku ni mogoča SwapTokenReloaded aplikacija je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-97"/>

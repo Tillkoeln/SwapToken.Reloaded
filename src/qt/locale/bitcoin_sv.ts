@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About SwapToken</source>
-        <translation>Vad du behöver veta om SwapToken</translation>
+        <source>About SwapTokenReloaded</source>
+        <translation>Vad du behöver veta om SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;SwapToken&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;SwapToken&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;SwapTokenReloaded&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;SwapTokenReloaded&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The SwapToken developers</source>
+Copyright © 2014 The SwapTokenReloaded developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The SwapToken developers</translation>
+Copyright © 2014 The SwapTokenReloaded developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -66,8 +66,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your SwapToken addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dessa är dina SwapToken adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
+        <source>These are your SwapTokenReloaded addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dessa är dina SwapTokenReloaded adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -81,8 +81,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a SwapToken address</source>
-        <translation>Signera ett meddelande för att bevisa att du äger SwapToken adressen</translation>
+        <source>Sign a message to prove you own a SwapTokenReloaded address</source>
+        <translation>Signera ett meddelande för att bevisa att du äger SwapTokenReloaded adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,8 +96,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified SwapToken address</source>
-        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik SwapToken adress</translation>
+        <source>Verify a message to ensure it was signed with a specified SwapTokenReloaded address</source>
+        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik SwapTokenReloaded adress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -264,8 +264,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-58"/>
-        <source>SwapToken will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>SwapToken plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
+        <source>SwapTokenReloaded will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>SwapTokenReloaded plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -378,8 +378,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about SwapToken</source>
-        <translation>Visa information om SwapToken</translation>
+        <source>Show information about SwapTokenReloaded</source>
+        <translation>Visa information om SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -428,13 +428,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a SwapToken address</source>
-        <translation>Skicka coins till en SwapToken adress</translation>
+        <source>Send coins to a SwapTokenReloaded address</source>
+        <translation>Skicka coins till en SwapTokenReloaded adress</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for SwapToken</source>
-        <translation>Modifiera konfigurations-alternativ för SwapToken</translation>
+        <source>Modify configuration options for SwapTokenReloaded</source>
+        <translation>Modifiera konfigurations-alternativ för SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -473,8 +473,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-202"/>
-        <source>SwapToken</source>
-        <translation>SwapToken</translation>
+        <source>SwapTokenReloaded</source>
+        <translation>SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -483,8 +483,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About SwapToken</source>
-        <translation>&amp;Om SwapToken</translation>
+        <source>&amp;About SwapTokenReloaded</source>
+        <translation>&amp;Om SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -540,13 +540,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>SwapToken client</source>
-        <translation>SwapToken klient</translation>
+        <source>SwapTokenReloaded client</source>
+        <translation>SwapTokenReloaded klient</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to SwapToken network</source>
-        <translation><numerusform>%n aktiv anslutning till SwapToken nätverket</numerusform><numerusform>%n aktiva anslutning till SwapToken nätverket</numerusform></translation>
+        <source>%n active connection(s) to SwapTokenReloaded network</source>
+        <translation><numerusform>%n aktiv anslutning till SwapTokenReloaded nätverket</numerusform><numerusform>%n aktiva anslutning till SwapTokenReloaded nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -585,13 +585,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-312"/>
-        <source>About SwapToken card</source>
-        <translation>Om SwapToken kortet</translation>
+        <source>About SwapTokenReloaded card</source>
+        <translation>Om SwapTokenReloaded kortet</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about SwapToken card</source>
-        <translation>Via information om SwapToken kortet</translation>
+        <source>Show information about SwapTokenReloaded card</source>
+        <translation>Via information om SwapTokenReloaded kortet</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -670,8 +670,8 @@ Adress: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid SwapToken address or malformed URI parameters.</source>
-        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig SwapToken adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid SwapTokenReloaded address or malformed URI parameters.</source>
+        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig SwapTokenReloaded adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -730,8 +730,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. SwapToken can no longer continue safely and will quit.</source>
-        <translation>Ett fatalt fel uppstod. SwapToken kan inte fortsätta och stänger programmet.</translation>
+        <source>A fatal error occurred. SwapTokenReloaded can no longer continue safely and will quit.</source>
+        <translation>Ett fatalt fel uppstod. SwapTokenReloaded kan inte fortsätta och stänger programmet.</translation>
     </message>
 </context>
 <context>
@@ -1025,7 +1025,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>Namnet som kopplats till denna SwapToken-adress</translation>
+        <translation>Namnet som kopplats till denna SwapTokenReloaded-adress</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1064,8 +1064,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid SwapToken address.</source>
-        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig SwapToken adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid SwapTokenReloaded address.</source>
+        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig SwapTokenReloaded adress.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1083,8 +1083,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>SwapToken-Qt</source>
-        <translation>SwapToken-Qt</translation>
+        <source>SwapTokenReloaded-Qt</source>
+        <translation>SwapTokenReloaded-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1156,13 +1156,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start SwapToken after logging in to the system.</source>
-        <translation>Starta SwapToken automatiskt vid inloggning.</translation>
+        <source>Automatically start SwapTokenReloaded after logging in to the system.</source>
+        <translation>Starta SwapTokenReloaded automatiskt vid inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start SwapToken on system login</source>
-        <translation>&amp;Starta SwapToken vid inloggning</translation>
+        <source>&amp;Start SwapTokenReloaded on system login</source>
+        <translation>&amp;Starta SwapTokenReloaded vid inloggning</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1181,8 +1181,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the SwapToken client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt SwapToken klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
+        <source>Automatically open the SwapTokenReloaded client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt SwapTokenReloaded klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1191,8 +1191,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the SwapToken network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till SwapToken nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the SwapTokenReloaded network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till SwapTokenReloaded nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1266,8 +1266,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting SwapToken.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av SwapToken.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting SwapTokenReloaded.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av SwapTokenReloaded.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1281,8 +1281,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show SwapToken addresses in the transaction list or not.</source>
-        <translation>Om SwapToken adresser skall visas i transaktionslistan eller inte.</translation>
+        <source>Whether to show SwapTokenReloaded addresses in the transaction list or not.</source>
+        <translation>Om SwapTokenReloaded adresser skall visas i transaktionslistan eller inte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1328,8 +1328,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting SwapToken.</source>
-        <translation>Inställningen börjar gälla efter omstart av SwapToken.</translation>
+        <source>This setting will take effect after restarting SwapTokenReloaded.</source>
+        <translation>Inställningen börjar gälla efter omstart av SwapTokenReloaded.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1347,8 +1347,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SwapToken network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med SwapToken nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SwapTokenReloaded network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med SwapTokenReloaded nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1563,8 +1563,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the SwapToken-Qt help message to get a list with possible SwapToken command-line options.</source>
-        <translation>Visa SwapToken-Qt hjälp meddelandet för att få en lista över möjliga SwapToken kommandoradsalternativ.</translation>
+        <source>Show the SwapTokenReloaded-Qt help message to get a list with possible SwapTokenReloaded command-line options.</source>
+        <translation>Visa SwapTokenReloaded-Qt hjälp meddelandet för att få en lista över möjliga SwapTokenReloaded kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1583,13 +1583,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>SwapToken - Debug window</source>
-        <translation>SwapToken - Felsökningsfönster</translation>
+        <source>SwapTokenReloaded - Debug window</source>
+        <translation>SwapTokenReloaded - Felsökningsfönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>SwapToken Core</source>
-        <translation>SwapToken Core</translation>
+        <source>SwapTokenReloaded Core</source>
+        <translation>SwapTokenReloaded Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1598,8 +1598,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the SwapToken debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna SwapToken felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
+        <source>Open the SwapTokenReloaded debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna SwapTokenReloaded felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1608,8 +1608,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the SwapToken RPC console.</source>
-        <translation>Välkommen till SwapToken RPC konsoll.</translation>
+        <source>Welcome to the SwapTokenReloaded RPC console.</source>
+        <translation>Välkommen till SwapTokenReloaded RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1767,8 +1767,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a SwapToken address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en SwapToken adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a SwapTokenReloaded address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en SwapTokenReloaded adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1867,8 +1867,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid SwapToken address</source>
-        <translation>VARNING: Ogiltig SwapToken adress</translation>
+        <source>WARNING: Invalid SwapTokenReloaded address</source>
+        <translation>VARNING: Ogiltig SwapTokenReloaded adress</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1941,8 +1941,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a SwapToken address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en SwapToken adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a SwapTokenReloaded address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en SwapTokenReloaded adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2002,8 +2002,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this SwapToken address</source>
-        <translation>Signera meddelandet för att verifiera att du äger denna SwapToken adressen</translation>
+        <source>Sign the message to prove you own this SwapTokenReloaded address</source>
+        <translation>Signera meddelandet för att verifiera att du äger denna SwapTokenReloaded adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified SwapToken address</source>
-        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna SwapToken adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified SwapTokenReloaded address</source>
+        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna SwapTokenReloaded adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2045,8 +2045,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a SwapToken address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en SwapToken adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a SwapTokenReloaded address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en SwapTokenReloaded adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2055,8 +2055,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter SwapToken signature</source>
-        <translation>Fyll i SwapToken signatur</translation>
+        <source>Enter SwapTokenReloaded signature</source>
+        <translation>Fyll i SwapTokenReloaded signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2626,8 +2626,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>SwapToken version</source>
-        <translation>SwapToken version</translation>
+        <source>SwapTokenReloaded version</source>
+        <translation>SwapTokenReloaded version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2636,8 +2636,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or SwapTokend</source>
-        <translation>Skicka kommando till -server eller SwapTokend</translation>
+        <source>Send command to -server or SwapTokenReloadedd</source>
+        <translation>Skicka kommando till -server eller SwapTokenReloadedd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2656,13 +2656,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: SwapToken.conf)</source>
-        <translation>Ange konfigurationsfilen (standard: SwapToken.conf)</translation>
+        <source>Specify configuration file (default: SwapTokenReloaded.conf)</source>
+        <translation>Ange konfigurationsfilen (standard: SwapTokenReloaded.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: SwapTokend.pid)</source>
-        <translation>Ange pid filen (standard SwapTokend.pid)</translation>
+        <source>Specify pid file (default: SwapTokenReloadedd.pid)</source>
+        <translation>Ange pid filen (standard SwapTokenReloadedd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2811,8 +2811,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong SwapToken will not work properly.</source>
-        <translation>Varning: Kolla att din dators tid och datum är rätt. SwapToken kan inte fungera ordentligt om tiden i datorn är fel.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong SwapTokenReloaded will not work properly.</source>
+        <translation>Varning: Kolla att din dators tid och datum är rätt. SwapTokenReloaded kan inte fungera ordentligt om tiden i datorn är fel.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3001,24 +3001,24 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=SwapTokenrpc
+rpcuser=SwapTokenReloadedrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;SwapToken Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;SwapTokenReloaded Alert&quot; admin@foo.com
 </source>
         <translation>%s, du måste sätta rpcpassword i konfigurationsfilen:
  %s
 Det är rekommenderat att du använder följande slumpmässiga lösenord:
-rpcuser=SwapTokenrpc
+rpcuser=SwapTokenReloadedrpc
 rpcpassword=%s
 (du behöver inte komma ihåg detta lösenord)
 Användarnamnet och lösenordet FÅR INTE vara samma.
 Om filen inte finns, skapa den med endast ägarrättigheter.
 Det är också rekommenderat att sätta alertnotify så du blir notifierad om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;SwapToken Varning&quot; admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s &quot;SwapTokenReloaded Varning&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3143,13 +3143,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;SwapToken Varning&quot; admin
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  SwapToken is probably already running.</source>
-        <translation>Kan inte låsa datan i mappen %s. SwapToken är kanske redan startad.</translation>
+        <source>Cannot obtain a lock on data directory %s.  SwapTokenReloaded is probably already running.</source>
+        <translation>Kan inte låsa datan i mappen %s. SwapTokenReloaded är kanske redan startad.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>SwapToken</source>
-        <translation>SwapToken</translation>
+        <source>SwapTokenReloaded</source>
+        <translation>SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3183,13 +3183,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;SwapToken Varning&quot; admin
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of SwapToken</source>
-        <translation>Kunde inte ladda wallet.dat: En nyare version av SwapToken krävs</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of SwapTokenReloaded</source>
+        <translation>Kunde inte ladda wallet.dat: En nyare version av SwapTokenReloaded krävs</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart SwapToken to complete</source>
-        <translation>Plånboken måste skrivas om: Starta om SwapToken för att slutföra</translation>
+        <source>Wallet needed to be rewritten: restart SwapTokenReloaded to complete</source>
+        <translation>Plånboken måste skrivas om: Starta om SwapTokenReloaded för att slutföra</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3258,8 +3258,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;SwapToken Varning&quot; admin
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. SwapToken is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. SwapToken är sannolikt redan startad.</translation>
+        <source>Unable to bind to %s on this computer. SwapTokenReloaded is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. SwapTokenReloaded är sannolikt redan startad.</translation>
     </message>
     <message>
         <location line="-97"/>

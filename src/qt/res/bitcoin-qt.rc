@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "SwapToken"
-            VALUE "FileDescription",    "SwapToken-Qt (OSS GUI client for SwapToken)"
+            VALUE "CompanyName",        "SwapTokenReloaded"
+            VALUE "FileDescription",    "SwapTokenReloaded-Qt (OSS GUI client for SwapTokenReloaded)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "SwapToken-qt"
-            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2014 The SwapToken developers"
+            VALUE "InternalName",       "SwapTokenReloaded-qt"
+            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2014 The SwapTokenReloaded developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "SwapToken-qt.exe"
-            VALUE "ProductName",        "SwapToken-Qt"
+            VALUE "OriginalFilename",   "SwapTokenReloaded-qt.exe"
+            VALUE "ProductName",        "SwapTokenReloaded-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

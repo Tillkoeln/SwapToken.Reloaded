@@ -24,7 +24,7 @@ QtoX  11C2890C001A5658F59D89E2CA184274A006BA80870E8330FD5F948D40672D770DFC92CABF
 thank you.
 
 
-https://github.com/Tillkoeln/SwapToken
+https://github.com/Tillkoeln/SwapTokenReloaded
 
 https://bitcointalk.org/index.php?topic=1527955.0
 

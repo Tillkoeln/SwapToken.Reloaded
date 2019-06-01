@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About SwapToken</source>
-        <translation>O SwapToken</translation>
+        <source>About SwapTokenReloaded</source>
+        <translation>O SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;SwapToken&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;SwapToken&lt;/b&gt; verzia</translation>
+        <source>&lt;b&gt;SwapTokenReloaded&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;SwapTokenReloaded&lt;/b&gt; verzia</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The SwapToken developers</source>
+Copyright © 2014 The SwapTokenReloaded developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The SwapToken developers</translation>
+Copyright © 2014 The SwapTokenReloaded developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your SwapToken addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše SwapToken adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
+        <source>These are your SwapTokenReloaded addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše SwapTokenReloaded adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a SwapToken address</source>
-        <translation>Podpísať správu, že vlastníte SwapToken adresu</translation>
+        <source>Sign a message to prove you own a SwapTokenReloaded address</source>
+        <translation>Podpísať správu, že vlastníte SwapTokenReloaded adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified SwapToken address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou SwapToken adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified SwapTokenReloaded address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou SwapTokenReloaded adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>SwapToken will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>SwapToken sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>SwapTokenReloaded will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>SwapTokenReloaded sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about SwapToken</source>
-        <translation>Zobraziť informácie o SwapToken</translation>
+        <source>Show information about SwapTokenReloaded</source>
+        <translation>Zobraziť informácie o SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a SwapToken address</source>
-        <translation>Poslať mince na SwapToken adresu</translation>
+        <source>Send coins to a SwapTokenReloaded address</source>
+        <translation>Poslať mince na SwapTokenReloaded adresu</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for SwapToken</source>
-        <translation>Upraviť možnosti konfigurácie pre SwapToken</translation>
+        <source>Modify configuration options for SwapTokenReloaded</source>
+        <translation>Upraviť možnosti konfigurácie pre SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-202"/>
-        <source>SwapToken</source>
-        <translation>SwapToken</translation>
+        <source>SwapTokenReloaded</source>
+        <translation>SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About SwapToken</source>
-        <translation>&amp;O SwapToken</translation>
+        <source>&amp;About SwapTokenReloaded</source>
+        <translation>&amp;O SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>SwapToken client</source>
-        <translation>SwapToken client</translation>
+        <source>SwapTokenReloaded client</source>
+        <translation>SwapTokenReloaded client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to SwapToken network</source>
-        <translation><numerusform>%n aktívne spojenie s SwapToken sieťov</numerusform><numerusform>%n aktívnych spojení s SwapToken sieťov</numerusform><numerusform>%n aktívnych spojení s SwapToken sieťov</numerusform></translation>
+        <source>%n active connection(s) to SwapTokenReloaded network</source>
+        <translation><numerusform>%n aktívne spojenie s SwapTokenReloaded sieťov</numerusform><numerusform>%n aktívnych spojení s SwapTokenReloaded sieťov</numerusform><numerusform>%n aktívnych spojení s SwapTokenReloaded sieťov</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-312"/>
-        <source>About SwapToken card</source>
-        <translation>O SwapToken karte</translation>
+        <source>About SwapTokenReloaded card</source>
+        <translation>O SwapTokenReloaded karte</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about SwapToken card</source>
-        <translation>Zobraziť informácie o SwapToken karte</translation>
+        <source>Show information about SwapTokenReloaded card</source>
+        <translation>Zobraziť informácie o SwapTokenReloaded karte</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -668,8 +668,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid SwapToken address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou SwapToken adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid SwapTokenReloaded address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou SwapTokenReloaded adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -728,8 +728,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. SwapToken can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. SwapToken už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. SwapTokenReloaded can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. SwapTokenReloaded už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1062,8 +1062,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid SwapToken address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou SwapToken adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid SwapTokenReloaded address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou SwapTokenReloaded adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1081,8 +1081,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>SwapToken-Qt</source>
-        <translation>SwapToken-Qt</translation>
+        <source>SwapTokenReloaded-Qt</source>
+        <translation>SwapTokenReloaded-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1154,13 +1154,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start SwapToken after logging in to the system.</source>
-        <translation>Automaticky spustiť SwapToken po prihlásení sa do systému.</translation>
+        <source>Automatically start SwapTokenReloaded after logging in to the system.</source>
+        <translation>Automaticky spustiť SwapTokenReloaded po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start SwapToken on system login</source>
-        <translation>&amp;Spustiť SwapToken pri prihlásení do systému</translation>
+        <source>&amp;Start SwapTokenReloaded on system login</source>
+        <translation>&amp;Spustiť SwapTokenReloaded pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1179,8 +1179,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the SwapToken client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta SwapToken na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the SwapTokenReloaded client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta SwapTokenReloaded na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1189,8 +1189,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the SwapToken network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti SwapToken cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the SwapTokenReloaded network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti SwapTokenReloaded cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1264,8 +1264,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting SwapToken.</source>
-        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní SwapToken.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting SwapTokenReloaded.</source>
+        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní SwapTokenReloaded.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1279,8 +1279,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show SwapToken addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť SwapToken adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show SwapTokenReloaded addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť SwapTokenReloaded adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1326,8 +1326,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting SwapToken.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní SwapToken.</translation>
+        <source>This setting will take effect after restarting SwapTokenReloaded.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní SwapTokenReloaded.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1345,8 +1345,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SwapToken network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou SwapToken po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SwapTokenReloaded network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou SwapTokenReloaded po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1561,8 +1561,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the SwapToken-Qt help message to get a list with possible SwapToken command-line options.</source>
-        <translation>Zobraziť SwapToken-Qt nápovedu k získaniu zoznamu pre možnosti SwapToken príkazového riadku.</translation>
+        <source>Show the SwapTokenReloaded-Qt help message to get a list with possible SwapTokenReloaded command-line options.</source>
+        <translation>Zobraziť SwapTokenReloaded-Qt nápovedu k získaniu zoznamu pre možnosti SwapTokenReloaded príkazového riadku.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1581,13 +1581,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-104"/>
-        <source>SwapToken - Debug window</source>
-        <translation>SwapToken - Ladiace okno</translation>
+        <source>SwapTokenReloaded - Debug window</source>
+        <translation>SwapTokenReloaded - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>SwapToken Core</source>
-        <translation>SwapToken Core</translation>
+        <source>SwapTokenReloaded Core</source>
+        <translation>SwapTokenReloaded Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1596,8 +1596,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the SwapToken debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte SwapToken ladenie log súbor z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory protokolu.</translation>
+        <source>Open the SwapTokenReloaded debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte SwapTokenReloaded ladenie log súbor z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory protokolu.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1606,8 +1606,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the SwapToken RPC console.</source>
-        <translation>Vitajte v SwapToken RPC konzole.</translation>
+        <source>Welcome to the SwapTokenReloaded RPC console.</source>
+        <translation>Vitajte v SwapTokenReloaded RPC konzole.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1765,8 +1765,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a SwapToken address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte SwapToken adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a SwapTokenReloaded address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte SwapTokenReloaded adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1865,8 +1865,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid SwapToken address</source>
-        <translation>VAROVANIE: Neplatná SwapToken adresa</translation>
+        <source>WARNING: Invalid SwapTokenReloaded address</source>
+        <translation>VAROVANIE: Neplatná SwapTokenReloaded adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1939,8 +1939,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a SwapToken address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadaj a SwapToken addresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a SwapTokenReloaded address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadaj a SwapTokenReloaded addresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2000,8 +2000,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this SwapToken address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto SwapToken adresu</translation>
+        <source>Sign the message to prove you own this SwapTokenReloaded address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto SwapTokenReloaded adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified SwapToken address</source>
-        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou SwapToken adresu</translation>
+        <source>Verify the message to ensure it was signed with the specified SwapTokenReloaded address</source>
+        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou SwapTokenReloaded adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2043,8 +2043,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a SwapToken address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte SwapToken adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a SwapTokenReloaded address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte SwapTokenReloaded adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2053,8 +2053,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter SwapToken signature</source>
-        <translation>Zadajte SwapToken podpis</translation>
+        <source>Enter SwapTokenReloaded signature</source>
+        <translation>Zadajte SwapTokenReloaded podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2624,8 +2624,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>SwapToken version</source>
-        <translation>SwapToken verzia</translation>
+        <source>SwapTokenReloaded version</source>
+        <translation>SwapTokenReloaded verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2634,8 +2634,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or SwapTokend</source>
-        <translation>Pošli príkaz na -server alebo SwapTokend</translation>
+        <source>Send command to -server or SwapTokenReloadedd</source>
+        <translation>Pošli príkaz na -server alebo SwapTokenReloadedd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2654,13 +2654,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: SwapToken.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: SwapToken.conf)</translation>
+        <source>Specify configuration file (default: SwapTokenReloaded.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: SwapTokenReloaded.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: SwapTokend.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: SwapTokend.pid)</translation>
+        <source>Specify pid file (default: SwapTokenReloadedd.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: SwapTokenReloadedd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2809,8 +2809,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong SwapToken will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny SwapToken nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong SwapTokenReloaded will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny SwapTokenReloaded nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2999,24 +2999,24 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=SwapTokenrpc
+rpcuser=SwapTokenReloadedrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;SwapToken Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;SwapTokenReloaded Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
 Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=SwapTokenrpc
+rpcuser=SwapTokenReloadedrpc
 rpcpassword=%s
 (Nemusíte si pamätať toto heslo)
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;SwapToken Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;SwapTokenReloaded Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3140,13 +3140,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;SwapToken Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  SwapToken is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. SwapToken už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  SwapTokenReloaded is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. SwapTokenReloaded už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>SwapToken</source>
-        <translation>SwapToken</translation>
+        <source>SwapTokenReloaded</source>
+        <translation>SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;SwapToken Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of SwapToken</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu SwapToken</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of SwapTokenReloaded</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart SwapToken to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte SwapToken k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart SwapTokenReloaded to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte SwapTokenReloaded k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;SwapToken Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. SwapToken is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. SwapToken je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. SwapTokenReloaded is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. SwapTokenReloaded je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>

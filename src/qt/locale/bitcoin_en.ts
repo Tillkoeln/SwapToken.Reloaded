@@ -5,19 +5,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About SwapToken</source>
-        <translation>About SwapToken</translation>
+        <source>About SwapTokenReloaded</source>
+        <translation>About SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;SwapToken&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;SwapToken&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;SwapTokenReloaded&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;SwapTokenReloaded&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The SwapToken developers</source>
+Copyright © 2014 The SwapTokenReloaded developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -65,8 +65,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your SwapToken addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your SwapToken addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your SwapTokenReloaded addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your SwapTokenReloaded addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a SwapToken address</source>
-        <translation>Sign a message to prove you own a SwapToken address</translation>
+        <source>Sign a message to prove you own a SwapTokenReloaded address</source>
+        <translation>Sign a message to prove you own a SwapTokenReloaded address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified SwapToken address</source>
-        <translation>Verify a message to ensure it was signed with a specified SwapToken address</translation>
+        <source>Verify a message to ensure it was signed with a specified SwapTokenReloaded address</source>
+        <translation>Verify a message to ensure it was signed with a specified SwapTokenReloaded address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>SwapToken will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>SwapToken will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
+        <source>SwapTokenReloaded will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>SwapTokenReloaded will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about SwapToken</source>
-        <translation>Show information about SwapToken</translation>
+        <source>Show information about SwapTokenReloaded</source>
+        <translation>Show information about SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -430,13 +430,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a SwapToken address</source>
-        <translation>Send coins to a SwapToken address</translation>
+        <source>Send coins to a SwapTokenReloaded address</source>
+        <translation>Send coins to a SwapTokenReloaded address</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for SwapToken</source>
-        <translation>Modify configuration options for SwapToken</translation>
+        <source>Modify configuration options for SwapTokenReloaded</source>
+        <translation>Modify configuration options for SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -475,8 +475,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>SwapToken</source>
-        <translation>SwapToken</translation>
+        <source>SwapTokenReloaded</source>
+        <translation>SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -485,8 +485,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About SwapToken</source>
-        <translation>&amp;About SwapToken</translation>
+        <source>&amp;About SwapTokenReloaded</source>
+        <translation>&amp;About SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -542,15 +542,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>SwapToken client</source>
-        <translation>SwapToken client</translation>
+        <source>SwapTokenReloaded client</source>
+        <translation>SwapTokenReloaded client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to SwapToken network</source>
+        <source>%n active connection(s) to SwapTokenReloaded network</source>
         <translation>
-            <numerusform>%n active connection to SwapToken network</numerusform>
-            <numerusform>%n active connections to SwapToken network</numerusform>
+            <numerusform>%n active connection to SwapTokenReloaded network</numerusform>
+            <numerusform>%n active connections to SwapTokenReloaded network</numerusform>
         </translation>
     </message>
     <message>
@@ -593,12 +593,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About SwapToken card</source>
+        <source>About SwapTokenReloaded card</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about SwapToken card</source>
+        <source>Show information about SwapTokenReloaded card</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -687,8 +687,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid SwapToken address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid SwapToken address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid SwapTokenReloaded address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid SwapTokenReloaded address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -759,8 +759,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. SwapToken can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. SwapToken can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. SwapTokenReloaded can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. SwapTokenReloaded can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -1079,8 +1079,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid SwapToken address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid SwapToken address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid SwapTokenReloaded address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid SwapTokenReloaded address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1098,8 +1098,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>SwapToken-Qt</source>
-        <translation>SwapToken-Qt</translation>
+        <source>SwapTokenReloaded-Qt</source>
+        <translation>SwapTokenReloaded-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1171,13 +1171,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start SwapToken after logging in to the system.</source>
-        <translation>Automatically start SwapToken after logging in to the system.</translation>
+        <source>Automatically start SwapTokenReloaded after logging in to the system.</source>
+        <translation>Automatically start SwapTokenReloaded after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start SwapToken on system login</source>
-        <translation>&amp;Start SwapToken on system login</translation>
+        <source>&amp;Start SwapTokenReloaded on system login</source>
+        <translation>&amp;Start SwapTokenReloaded on system login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1196,8 +1196,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the SwapToken client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the SwapToken client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the SwapTokenReloaded client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the SwapTokenReloaded client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1206,8 +1206,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the SwapToken network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the SwapToken network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the SwapTokenReloaded network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the SwapTokenReloaded network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1281,8 +1281,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting SwapToken.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting SwapToken.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting SwapTokenReloaded.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting SwapTokenReloaded.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1296,8 +1296,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show SwapToken addresses in the transaction list or not.</source>
-        <translation>Whether to show SwapToken addresses in the transaction list or not.</translation>
+        <source>Whether to show SwapTokenReloaded addresses in the transaction list or not.</source>
+        <translation>Whether to show SwapTokenReloaded addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1343,8 +1343,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting SwapToken.</source>
-        <translation>This setting will take effect after restarting SwapToken.</translation>
+        <source>This setting will take effect after restarting SwapTokenReloaded.</source>
+        <translation>This setting will take effect after restarting SwapTokenReloaded.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1362,8 +1362,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SwapToken network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the SwapToken network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SwapTokenReloaded network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the SwapTokenReloaded network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1578,8 +1578,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the SwapToken-Qt help message to get a list with possible SwapToken command-line options.</source>
-        <translation>Show the SwapToken-Qt help message to get a list with possible SwapToken command-line options.</translation>
+        <source>Show the SwapTokenReloaded-Qt help message to get a list with possible SwapTokenReloaded command-line options.</source>
+        <translation>Show the SwapTokenReloaded-Qt help message to get a list with possible SwapTokenReloaded command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1598,13 +1598,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>SwapToken - Debug window</source>
-        <translation>SwapToken - Debug window</translation>
+        <source>SwapTokenReloaded - Debug window</source>
+        <translation>SwapTokenReloaded - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>SwapToken Core</source>
-        <translation>SwapToken Core</translation>
+        <source>SwapTokenReloaded Core</source>
+        <translation>SwapTokenReloaded Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1613,8 +1613,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the SwapToken debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the SwapToken debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the SwapTokenReloaded debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the SwapTokenReloaded debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1623,8 +1623,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the SwapToken RPC console.</source>
-        <translation>Welcome to the SwapToken RPC console.</translation>
+        <source>Welcome to the SwapTokenReloaded RPC console.</source>
+        <translation>Welcome to the SwapTokenReloaded RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1782,8 +1782,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a SwapToken address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Enter a SwapToken address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a SwapTokenReloaded address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a SwapTokenReloaded address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1882,7 +1882,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid SwapToken address</source>
+        <source>WARNING: Invalid SwapTokenReloaded address</source>
         <translation></translation>
     </message>
     <message>
@@ -1956,8 +1956,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a SwapToken address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Enter a SwapToken address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a SwapTokenReloaded address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a SwapTokenReloaded address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2017,8 +2017,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this SwapToken address</source>
-        <translation>Sign the message to prove you own this SwapToken address</translation>
+        <source>Sign the message to prove you own this SwapTokenReloaded address</source>
+        <translation>Sign the message to prove you own this SwapTokenReloaded address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2049,8 +2049,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified SwapToken address</source>
-        <translation>Verify the message to ensure it was signed with the specified SwapToken address</translation>
+        <source>Verify the message to ensure it was signed with the specified SwapTokenReloaded address</source>
+        <translation>Verify the message to ensure it was signed with the specified SwapTokenReloaded address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2060,8 +2060,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a SwapToken address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Enter a SwapToken address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a SwapTokenReloaded address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a SwapTokenReloaded address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2070,8 +2070,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter SwapToken signature</source>
-        <translation>Enter SwapToken signature</translation>
+        <source>Enter SwapTokenReloaded signature</source>
+        <translation>Enter SwapTokenReloaded signature</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2653,8 +2653,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>SwapToken version</source>
-        <translation>SwapToken version</translation>
+        <source>SwapTokenReloaded version</source>
+        <translation>SwapTokenReloaded version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2663,8 +2663,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or SwapTokend</source>
-        <translation>Send command to -server or SwapTokend</translation>
+        <source>Send command to -server or SwapTokenReloadedd</source>
+        <translation>Send command to -server or SwapTokenReloadedd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2683,13 +2683,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: SwapToken.conf)</source>
-        <translation>Specify configuration file (default: SwapToken.conf)</translation>
+        <source>Specify configuration file (default: SwapTokenReloaded.conf)</source>
+        <translation>Specify configuration file (default: SwapTokenReloaded.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: SwapTokend.pid)</source>
-        <translation>Specify pid file (default: SwapTokend.pid)</translation>
+        <source>Specify pid file (default: SwapTokenReloadedd.pid)</source>
+        <translation>Specify pid file (default: SwapTokenReloadedd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2838,8 +2838,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong SwapToken will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong SwapToken will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong SwapTokenReloaded will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong SwapTokenReloaded will not work properly.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3027,13 +3027,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=SwapTokenrpc
+rpcuser=SwapTokenReloadedrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;SwapToken Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;SwapTokenReloaded Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -3159,13 +3159,13 @@ for example: alertnotify=echo %%s | mail -s &quot;SwapToken Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  SwapToken is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s.  SwapToken is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s.  SwapTokenReloaded is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s.  SwapTokenReloaded is probably already running.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>SwapToken</source>
-        <translation>SwapToken</translation>
+        <source>SwapTokenReloaded</source>
+        <translation>SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3199,13 +3199,13 @@ for example: alertnotify=echo %%s | mail -s &quot;SwapToken Alert&quot; admin@fo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of SwapToken</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of SwapToken</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of SwapTokenReloaded</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of SwapTokenReloaded</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart SwapToken to complete</source>
-        <translation>Wallet needed to be rewritten: restart SwapToken to complete</translation>
+        <source>Wallet needed to be rewritten: restart SwapTokenReloaded to complete</source>
+        <translation>Wallet needed to be rewritten: restart SwapTokenReloaded to complete</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3274,8 +3274,8 @@ for example: alertnotify=echo %%s | mail -s &quot;SwapToken Alert&quot; admin@fo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. SwapToken is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. SwapToken is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. SwapTokenReloaded is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. SwapTokenReloaded is probably already running.</translation>
     </message>
     <message>
         <location line="-97"/>

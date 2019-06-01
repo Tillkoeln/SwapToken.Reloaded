@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("SwapTokens");
-    case mBTC: return QString("Milli-SwapTokens (1 / 1,000)");
-    case uBTC: return QString("Micro-SwapTokens (1 / 1,000,000)");
+    case BTC: return QString("SwapTokenReloadeds");
+    case mBTC: return QString("Milli-SwapTokenReloadeds (1 / 1,000)");
+    case uBTC: return QString("Micro-SwapTokenReloadeds (1 / 1,000,000)");
     default: return QString("???");
     }
 }
