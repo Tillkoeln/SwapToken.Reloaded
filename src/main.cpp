@@ -43,12 +43,14 @@ static CBigNum bnProofOfStakeLimitTestNet(~uint256(0) >> 16);
 
 /* unsigned int nWorkTargetSpacing = 1; // 1 second per block */
 unsigned int nWorkTargetSpacing = 2 * 60 ; // 120 seconds between Proof of Work Blocks
-unsigned int nStakeTargetSpacing = 1 * 60; // 15 seconds
-unsigned int nStakeMinAge = 1 * 60 * 60; // 4 hours
-unsigned int nStakeMaxAge = -1; // unlimited
+/* unsigned int nStakeTargetSpacing = 1 * 60; // 15 seconds */
+unsigned int nStakeTargetSpacing = 2 * 60; // 120 seconds
+/* unsigned int nStakeMinAge = 1 * 60 * 60; // 4 hours */
+unsigned int nStakeMinAge = 24 * 60 * 60; // Stake Weight starts growing on the second day
+/* unsigned int nStakeMaxAge = -1; // unlimited */
+unsigned int nStakeMaxAge = 90 * 24 * 60 * 60 ; // Stake Weight stops growing after 90 Days,  to prevent High Numbers on Global NetWeight
 unsigned int nModifierInterval = 10 * 60; // time to elapse before new modifier is computed
 
-int nCoinbaseMaturity = 144;
 int nCoinbaseMaturity = 144;
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
@@ -1021,7 +1023,7 @@ int64_t GetProofOfWorkReward(int64_t nFees)
 
 }
 
-// miner's coin stake reward based on coin age spent (coin-days)
+/* // miner's coin stake reward based on coin age spent (coin-days)
 int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees)
 {
     int64_t nSubsidy = nCoinAge * COIN_YEAR_REWARD * 33 / (365 * 33 + 8);
@@ -1031,7 +1033,25 @@ int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees)
 
     return nSubsidy + nFees;
 }
+ */
+ 
+// miner's coin stake reward based on coin age spent (coin-days)
+int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees)
+{
+    int64_t nSubsidy = nCoinAge * COIN_YEAR_REWARD * 33 / (365 * 33 + 8);
 
+    if(pindexBest->nHeight > 1)
+    {
+        nSubsidy = 100 * COIN;                    /*   solving Proof of Stake Blocks result into an fixed Reward + Fee`s instead of based on x% per annum */
+		return nSubsidy + nFees; 
+    }	
+		
+    if (fDebug && GetBoolArg("-printcreation"))
+        printf("GetProofOfStakeReward(): create=%s nCoinAge=%"PRId64"\n", FormatMoney(nSubsidy).c_str(), nCoinAge);
+
+    return nSubsidy + nFees;
+}
+ 
 static const int64_t nTargetTimespan = 20 * 60;  // Retarget Difficulty every 20 minutes
 
 //

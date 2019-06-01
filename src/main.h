@@ -37,7 +37,8 @@ static const int64_t MIN_TX_FEE = 10000;
 static const int64_t MIN_RELAY_TX_FEE = MIN_TX_FEE;
 static const int64_t MAX_MONEY = 150000000 * COIN;
 
-static const int64_t COIN_YEAR_REWARD = 3650 * CENT; // 1% per year
+/* static const int64_t COIN_YEAR_REWARD = 3650 * CENT; // 1% per year */
+static const int64_t COIN_YEAR_REWARD = 0 * CENT; // to reduce deflation + big numbers. ..DpoS Reward is  100 Coins instead of 10% per Day  like before ,   check  main.cpp line 1044
 
 inline bool MoneyRange(int64_t nValue) { return (nValue >= 0 && nValue <= MAX_MONEY); }
 // Threshold for nLockTime: below this value it is interpreted as block number, otherwise as UNIX timestamp.
