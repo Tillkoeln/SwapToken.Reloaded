@@ -41,13 +41,15 @@ CBigNum bnProofOfStakeLimit(~uint256(0) >> 20);
 CBigNum bnProofOfWorkLimitTestNet(~uint256(0) >> 16);
 static CBigNum bnProofOfStakeLimitTestNet(~uint256(0) >> 16);
 
-unsigned int nWorkTargetSpacing = 1; // 1 minutes per block
+/* unsigned int nWorkTargetSpacing = 1; // 1 second per block */
+unsigned int nWorkTargetSpacing = 2 * 60 ; // 120 seconds between Proof of Work Blocks
 unsigned int nStakeTargetSpacing = 1 * 60; // 15 seconds
 unsigned int nStakeMinAge = 1 * 60 * 60; // 4 hours
 unsigned int nStakeMaxAge = -1; // unlimited
 unsigned int nModifierInterval = 10 * 60; // time to elapse before new modifier is computed
 
-int nCoinbaseMaturity = 1440;
+int nCoinbaseMaturity = 144;
+int nCoinbaseMaturity = 144;
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
 
@@ -971,19 +973,45 @@ int64_t GetProofOfWorkReward(int64_t nFees)
 
     int64_t nSubsidy = 0 * COIN;
        
-   if (pindexBest->nHeight <= 99)
+/*    if (pindexBest->nHeight <= 99)
       {
         int64_t nSubsidy = 100000 * COIN;
         return nSubsidy + nFees;
+      } */
+   if (pindexBest->nHeight <= 2)
+      {
+        int64_t nSubsidy = 100000000 * COIN;
+        return nSubsidy + nFees;
       }
-      
+            
           
-    else if (pindexBest->nHeight <= 5000)
+/*     else if (pindexBest->nHeight <= 5000)
       {
         int64_t nSubsidy = 10 * COIN;
         return nSubsidy + nFees;
       }      
+       */
+	   
+    else if (pindexBest->nHeight <= 720)       // 72 Coins generated for testing Transactions
+      {
+        int64_t nSubsidy = 0.1 * COIN;
+        return nSubsidy + nFees;
+      }      
+	  
+    else if (pindexBest->nHeight <= 20160)     // 14 Days Zero Blocks,  Instamine Protection, 
+      {
+        int64_t nSubsidy = 0 * COIN;
+        return nSubsidy + nFees;
+      }      
+      	  
       
+
+    else if (pindexBest->nHeight <= 13371337)     // Block Reward, Proof of Work
+      {
+        int64_t nSubsidy = 10 * COIN;
+        return nSubsidy + nFees;
+      }      
+      	  
       
       
     if (fDebug && GetBoolArg("-printcreation"))
