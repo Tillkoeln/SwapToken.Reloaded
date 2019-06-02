@@ -1133,7 +1133,7 @@ void MapPort()
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
 		    	{"DNS.1", "swaptokenreloaded.ddns.net"},
-/* 		    	{"x", "x"},
+/* 		    	{"peer", "185.82.202.155"},
 		    	{"x", "x"},
 		    	{"x", "x"},		    	 */
 };
