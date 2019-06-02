@@ -1,18 +1,37 @@
-preparing incoming update,
+V2.0   https://github.com/Tillkoeln/SwapToken.Reloaded/commits/master
 
-ForkDate:
+check changelog / patchnotes  for details and rad documentation acording V2.0
 
-SwapRatio:
+added Checkpoints !
 
-Delegated Proof of Stake Ratio:
+bump version 2.0
 
-AutomaticSwap
+new Genesis
 
--Yobit
--Nova
+small changes on mining reward
 
-Updates,
+fixed BUG around total digits / limits on the GUI which cause client crash.
 
--Coinmarketcaps
+Transaction fee = 1 Coin
+payout to the next minted / mined Block.
 
-ClientDownload
+creatd  src/obj/zerocoin empty.file
+
+force the user interface to process up to 9 Digits,
+= 999999999     /fix app crash.
+
+modified Client-Name & Suffix
+
+set ProtoVersion + limiter + ProtoRange
+
+set definition for StakeSplit Age
+and dfine limit for combined inputs
+
+p2p and rpc ports  P2Peer Network related,  …
+
+rebrand, SwapToken => SwapTokenReloaded
+
+proof of stake reward structure modified  …
+
+new proof of work reward structure,  …
+
