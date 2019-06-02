@@ -33,9 +33,9 @@ static const unsigned int MAX_BLOCK_SIZE_GEN = MAX_BLOCK_SIZE/2;
 static const unsigned int MAX_BLOCK_SIGOPS = MAX_BLOCK_SIZE/50;
 static const unsigned int MAX_ORPHAN_TRANSACTIONS = MAX_BLOCK_SIZE/100;
 static const unsigned int MAX_INV_SZ = 50000;
-static const int64_t MIN_TX_FEE = 10000;
+static const int64_t MIN_TX_FEE = 100000000;                //fee = 1 Coin
 static const int64_t MIN_RELAY_TX_FEE = MIN_TX_FEE;
-static const int64_t MAX_MONEY = 150000000 * COIN;
+static const int64_t MAX_MONEY = 999999999 * COIN;    //limiter for GUI and max Digits..    not related to " total supply" 
 
 /* static const int64_t COIN_YEAR_REWARD = 3650 * CENT; // 1% per year */
 static const int64_t COIN_YEAR_REWARD = 0 * CENT; // to reduce deflation + big numbers. ..DpoS Reward is  100 Coins instead of 10% per Day  like before ,   check  main.cpp line 1044
@@ -50,8 +50,8 @@ static const int fHaveUPnP = true;
 static const int fHaveUPnP = false;
 #endif
 
-static const uint256 hashGenesisBlock("0x000004611c87517dfd29fe7f34bd6da2e1ad3d305ac12afe80a3229069390f68");
-static const uint256 hashGenesisBlockTestNet("0x000004611c87517dfd29fe7f34bd6da2e1ad3d305ac12afe80a3229069390f68");
+static const uint256 hashGenesisBlock("0x0000070e3ef23babe9fb54df6e419dfba6184b149c6a5763a2b7ee1ff92498dc");
+static const uint256 hashGenesisBlockTestNet("0x0000070e3ef23babe9fb54df6e419dfba6184b149c6a5763a2b7ee1ff92498dc");
 
 inline int64_t PastDrift(int64_t nTime)   { return nTime - 10 * 60; } // up to 10 minutes from the past
 inline int64_t FutureDrift(int64_t nTime) { return nTime + 10 * 60; } // up to 10 minutes from the future

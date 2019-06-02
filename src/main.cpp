@@ -994,13 +994,13 @@ int64_t GetProofOfWorkReward(int64_t nFees)
       }      
        */
 	   
-    else if (pindexBest->nHeight <= 720)       // 72 Coins generated for testing Transactions
+    else if (pindexBest->nHeight <= 720)       // 720 Coins generated for testing Transactions
       {
-        int64_t nSubsidy = 0.1 * COIN;
+        int64_t nSubsidy = 1 * COIN;
         return nSubsidy + nFees;
       }      
 	  
-    else if (pindexBest->nHeight <= 20160)     // 14 Days Zero Blocks,  Instamine Protection, 
+    else if (pindexBest->nHeight <= 4320)     //  72 Hours Zero Blocks,  Instamine Protection, 
       {
         int64_t nSubsidy = 0 * COIN;
         return nSubsidy + nFees;
@@ -2590,9 +2590,9 @@ bool LoadBlockIndex(bool fAllowNew)
         //    CTxOut(empty)
         //  vMerkleTree: 12630d16a9
 
-        const char* pszTimestamp = "Blockchain.info Block #312427 2014-07-25 14:15:16";
+        const char* pszTimestamp = "31 Februar 2069, 13:37";
         CTransaction txNew;
-        txNew.nTime = 1406297716;
+        txNew.nTime = 1559418046;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 0 << CBigNum(42) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
@@ -2602,9 +2602,9 @@ bool LoadBlockIndex(bool fAllowNew)
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1406297716;
+        block.nTime    = 1559418046;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = !fTestNet ? 190271 : 190271;
+        block.nNonce   = !fTestNet ? 3761951 : 3761951;
 
         if (false && (block.GetHash() != hashGenesisBlock)) {
 
@@ -2624,7 +2624,7 @@ bool LoadBlockIndex(bool fAllowNew)
         //// debug print
 
 
-        assert(block.hashMerkleRoot == uint256("0xc9c8f6250a60dc79038b9ae68ff747488ac80d4a2db0b194cf49628495448d21"));
+        assert(block.hashMerkleRoot == uint256("0xecffed16a67fe26b31ee906d6e0d99d6975bf27bca9a134049ce534afe9325ed"));
 
 
 
