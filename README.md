@@ -26,6 +26,8 @@ thank you.
 
 https://github.com/Tillkoeln/SwapTokenReloaded
 
+https://bitcointalk.org/index.php?topic=5149957.msg51318742#msg51318742
+
 https://bitcointalk.org/index.php?topic=1527955.0
 
 
