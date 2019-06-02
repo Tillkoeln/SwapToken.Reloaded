@@ -1134,8 +1134,11 @@ void MapPort()
 static const char *strDNSSeed[][2] = {
 		    	{"DNS.1", "swaptokenreloaded.ddns.net"},
 		    	{"peer", "185.82.202.155"},
-/* 		    	{"x", "x"},
-		    	{"x", "x"},		    	 */
+ 		    	{"x", "89.204.155.91"},
+		    	{"x", "217.182.185.221"},
+	 		{"x", "37.113.220.174"},
+		    	{"x", "95.28.162.229"},
+			{"x", "37.147.117.175"},
 };
 
 void ThreadDNSAddressSeed(void* parg)
