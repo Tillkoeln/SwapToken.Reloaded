@@ -1,21 +1,12 @@
 Hallo Yobit 
 
-please upload somewhere your blk0001.dat
-
-aka Bootstrap.dat ,  which contains your 
-
-last known block / confirmed Chain. 
-
-
-Yobit`s Chain/Status Quo will be used 
-
-as official, latest, bla bla highest bla bla bestblock 
-
-for the network. and later required by an Mandatory Update.
+required by an Mandatory Update.
 
 /trade/TOKEN/  -   /en/coinsinfo/
 
 -----------------------------------------------------------
+
+https://twitter.com/TillKoeln/status/1135216669989773313
 
 contact via official Ticket-System, or 
 
